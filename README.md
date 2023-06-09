@@ -1,8 +1,8 @@
 # Shadow-Utility
 
-# [CURRENTLY IN DEVELOPMENT]
-
 An extremely based kit for 1.19.X
+
+# [CURRENTLY IN DEVELOPMENT]
 
 # How to use:
 1. Locate your minecraft instance folder. Normally at \AppData\Roaming\.minecraft
