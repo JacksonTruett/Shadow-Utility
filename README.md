@@ -5,7 +5,7 @@ An extremely based minecraft kit for 1.19.x
 # [CURRENTLY IN DEVELOPMENT]
 
 - Latest Release: [v0.0.3](https://github.com/JacksonTruett/Shadow-Utility/releases/tag/v0.0.3)
-- Version currently in progress: v0.0.4
+- Version currently in progress: v0.1.0
 
 # How to use:
 1. Locate your minecraft instance folder. Normally at \AppData\Roaming\.minecraft
