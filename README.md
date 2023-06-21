@@ -1,6 +1,6 @@
 # Shadow-Utility
 
-An extremely based minecraft kit for 1.19.x [1.20.x in development]
+An extremely based minecraft kit for 1.19.3+
 
 # [CURRENTLY IN DEVELOPMENT]
 
