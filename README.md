@@ -5,7 +5,7 @@ An extremely based minecraft kit for 1.19.4+
 # [CURRENTLY IN DEVELOPMENT]
 
 - Latest Release: [v0.1.0](https://github.com/JacksonTruett/Shadow-Utility/releases/tag/v0.1.0)
-- Version currently in progress: v0.1.1
+- Version currently in progress: v0.2.0
 
 # How to use:
 1. Download the hotbar.nbt file from the [latest release](https://github.com/JacksonTruett/Shadow-Utility/releases/tag/v0.1.0)
