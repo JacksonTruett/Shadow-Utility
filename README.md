@@ -2,7 +2,9 @@
 
 An extremely based minecraft kit for 1.19.4+
 
-# [CURRENTLY IN DEVELOPMENT]
+# [CURRENTLY HALTED DEVELOPMENT]
+
+Currently, my main account is banned from minehut for an unknown reason. Development will continue after it has been settled.
 
 - Latest Release: [v0.1.0](https://github.com/JacksonTruett/Shadow-Utility/releases/tag/v0.1.0)
 - Version currently in progress: v0.2.0
